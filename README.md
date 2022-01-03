@@ -14,4 +14,4 @@
 - ![Mandelbrot Set](21_Mandelbrot_Set/Images/download%20(10).png)
 
 #### Challenge #22 - Julia Set:
-- ![Julia Set](22_Julia_Set/Images/download%20(2).png)
+- ![Julia Set](22_Julia_Set/Images/download%20(3).png)
