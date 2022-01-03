@@ -11,4 +11,4 @@
 - ![OOBJ Fractral Tree](/15_OOBJ_Fractral_Tree/Images/download.png)
 
 #### Challenge #21 - Mandelbrot Set:
-- ![Mandelbrot Set]("21_Mandelbrot_Set/Images/download (10).png")
+- ![Mandelbrot Set](21_Mandelbrot_Set/Images/download%20(10).png)
