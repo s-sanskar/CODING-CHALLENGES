@@ -3,8 +3,8 @@ var context = canvas.getContext("2d");
 
 var maxiterations = 100;
 
-canvas.width = 500;
-canvas.height = 500;
+canvas.width = 5000;
+canvas.height = 5000;
 
 context.fillStyle = "red";
 context.fillRect(0, 0, canvas.width, canvas.height);
@@ -38,7 +38,7 @@ for (var y = 0; y < canvas.height; y++) {
     color = {
       r: mapRange(bright, 5, 14, 0, 255),
       g: 0,
-      b: mapRange(bright, 5, 14, 0, 255),
+      b: 0,
     };
 
     if (n == maxiterations) {
