@@ -36,9 +36,9 @@ for (var y = 0; y < canvas.height; y++) {
     var bright = mapRange(n, 0, maxiterations, 0, 1);
     bright = Math.sqrt(mapRange(Math.sqrt(bright), 0, 1, 0, 255));
     color = {
-      r: mapRange(bright, 5, 14, 1, 255),
+      r: mapRange(bright, 5, 14, 0, 255),
       g: 0,
-      b: mapRange(bright, 1, 2, 1, 8),
+      b: mapRange(bright, 5, 14, 0, 255),
     };
 
     if (n == maxiterations) {
