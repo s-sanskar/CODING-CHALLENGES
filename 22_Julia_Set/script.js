@@ -3,8 +3,8 @@ var context = canvas.getContext("2d");
 
 var maxiterations = 100;
 
-canvas.width = 5000;
-canvas.height = 5000;
+canvas.width = 920;
+canvas.height = 920;
 
 context.fillStyle = "red";
 context.fillRect(0, 0, canvas.width, canvas.height);
