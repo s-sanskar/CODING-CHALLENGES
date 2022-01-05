@@ -19,6 +19,8 @@ for (var y = 0; y < canvas.height; y++) {
     var ca = -0.835;
     var cb = -0.2321;
 
+    
+
     var n = 0;
 
     while (n < maxiterations) {
