@@ -1,5 +1,7 @@
 # CODING-CHALLENGES
 
+### Todos:
+- Create a website and host all of these projects.
 
 #### Challenge #04 - Particle Rain:
 - ![Rain](04_Purple_Rain/Images/download%20(1).png)
